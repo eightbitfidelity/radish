@@ -61,7 +61,7 @@ There have been no releases of this code yet. Development on the initial alpha r
 License
 -------
 
->Copyright 2016 Robert L Snyder <robsnyder14850@gmail.com>, Ithaca, NY
+>Copyright 2016 Robert L Snyder <robsnyder14850@gmail.com>, 258 Duboise Road, Ithaca, NY 14850
 
  >Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
